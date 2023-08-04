@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Reproductor de Videos</string>
+
+    <string name="select_gender">Seleccione género</string>
+
+    <string-array name="gender_array">
+        <item>Femenino</item>
+        <item>Masculino</item>
+        <item>Otro</item>
+    </string-array>
+</resources>
